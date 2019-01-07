@@ -1,10 +1,10 @@
 h=input('the valu is  ')
 h=int(h)
 if h>0:
-print"positive"
+	print"positive"
 ifelse h<0:
-print"negative"
+	print"negative"
 ifelse h==0:
-print"zero"
+	print"zero"
 else:
-print"invalid"
+	print"invalid"
