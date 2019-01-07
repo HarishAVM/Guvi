@@ -1,10 +1,7 @@
-h=input('the valu is  ')
-h=int(h)
-if h>0:
-	print"positive"
-ifelse h<0:
-	print"negative"
-ifelse h==0:
-	print"zero"
+h=int(raw_input('the valu is  '))
+if (h>0):
+	print('positive')
+elif (h<0):
+	print('negative')
 else:
-	print"invalid"
+	print('zero')
