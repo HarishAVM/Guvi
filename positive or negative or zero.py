@@ -1,7 +1,7 @@
-h=int(raw_input('the valu is  '))
+h=int(raw_input())
 if (h>0):
-	print('positive')
+	print('Positive')
 elif (h<0):
-	print('negative')
+	print('Negative')
 else:
-	print('zero')
+	print('Zero')
