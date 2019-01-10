@@ -5,4 +5,4 @@ if (h%2==0):
 elif(h<0):
 	print("invalid")
 else:
-	print("odd")
+	print("Odd")
