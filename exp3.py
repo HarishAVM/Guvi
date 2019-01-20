@@ -3,4 +3,4 @@ vowels=['a','e','i','o','u','A','E','I','O','U']
 if (ha in vowels):
 	print"vowels"
 else:
-    print "consonant"
+    print "Consonant"
