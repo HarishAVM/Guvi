@@ -1,6 +1,5 @@
-hm=raw_input()
-vowels=['a','e','i','o','u','A','E','I','O','U']
-if (hm in vowels):
-	print"Vowels"
+ha=raw_input()
+if(ha=='A' or ha=='a' or ha=='E' or ha=='e' or ha=='I' or ha=='i' or ha=='O' or ha=='o' or ha=='U' or ha=='u'):
+ print("Vowel")
 else:
-    print "Consonant"
+ print("Consonant")
