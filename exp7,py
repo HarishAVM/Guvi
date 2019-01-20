@@ -1,0 +1,6 @@
+h=int(raw_input())
+if(h<=0):
+  print(" ")
+else:
+  for i in range(1,h):
+      print("Hello")
