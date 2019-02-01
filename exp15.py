@@ -1,5 +1,6 @@
-h= int(input(""))
-a= int(input(""))
-for i in range(h,a+1):
-  if(i%2 == 0):
-    print(i)
+h,a=raw_input().split()
+h=int(h)
+a=int(a)
+for i in range(h,a):
+	if (i%2==0):
+		print(i)
