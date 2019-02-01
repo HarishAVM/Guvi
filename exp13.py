@@ -1,8 +1,8 @@
-Xa=int(input())
+ha=int(input())
 
-for i in range(2, Xa):
+for i in range(2, ha):
 
-			if (Xa%i == 0):
+			if (ha%i == 0):
 
 				print("no")
 
