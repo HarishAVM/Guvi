@@ -1,3 +1,2 @@
-ha,r=map(int,input().split())
-sh=ha**r
-print(sh)
+h, a = map(int,raw_input().split())
+print(h**a)
