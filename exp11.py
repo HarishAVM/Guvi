@@ -1,3 +1,3 @@
-ra,s=map(int,input().split())
-ci=ra**s
-print(ci)
+ha,r=map(int,input().split())
+sh=ha**r
+print(sh)
