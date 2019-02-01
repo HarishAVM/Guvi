@@ -1,9 +1,5 @@
-def main():
-    A=int(input(""))
-    B = 0 
-    while(A > 0):
-        B += a
-        A -= 1
-        print(B)
-if __name__ == '__main__':
-    main()
+h=int(raw_input())
+a=0
+for i in range(1,h+1):
+    a=a+i
+print(a)
